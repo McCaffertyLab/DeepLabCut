@@ -18,6 +18,8 @@ from pathlib import Path
 
 import tensorflow as tf
 
+os.environ['TF_FORCE_GPU_ALLOW_GROWTH'] = 'true'
+
 vers = (tf.__version__).split(".")
 if int(vers[0]) == 1 and int(vers[1]) > 12:
     TF = tf.compat.v1
