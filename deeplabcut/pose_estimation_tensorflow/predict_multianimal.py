@@ -20,8 +20,6 @@ from deeplabcut.pose_estimation_tensorflow.nnet import predict_multianimal as pr
 from deeplabcut.utils import auxiliaryfunctions, auxfun_multianimal
 from deeplabcut.utils.auxfun_videos import VideoWriter
 
-os.environ['TF_FORCE_GPU_ALLOW_GROWTH'] = 'true'
-
 def AnalyzeMultiAnimalVideo(
     video,
     DLCscorer,
