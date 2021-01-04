@@ -20,7 +20,6 @@ from deeplabcut.pose_estimation_tensorflow.nnet import predict_multianimal as pr
 from deeplabcut.utils import auxiliaryfunctions, auxfun_multianimal
 from deeplabcut.utils.auxfun_videos import VideoWriter
 
-
 def AnalyzeMultiAnimalVideo(
     video,
     DLCscorer,

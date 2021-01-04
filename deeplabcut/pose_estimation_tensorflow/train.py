@@ -19,6 +19,7 @@ from pathlib import Path
 
 import tensorflow as tf
 
+
 vers = (tf.__version__).split(".")
 if int(vers[0]) == 1 and int(vers[1]) > 12:
     TF = tf.compat.v1
