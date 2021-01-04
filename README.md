@@ -1,18 +1,19 @@
 <a href="https://github.com/psf/black"><img alt="Code style: black" src="https://img.shields.io/badge/code%20style-black-000000.svg"></a>
 ![Python package](https://github.com/DeepLabCut/DeepLabCut/workflows/Python%20package/badge.svg)
 [![PyPI version](https://badge.fury.io/py/deeplabcut.svg)](https://badge.fury.io/py/deeplabcut)
+[![Downloads](https://static.pepy.tech/personalized-badge/deeplabcut?period=total&units=international_system&left_color=black&right_color=black&left_text=Downloads)](https://pepy.tech/project/deeplabcut)
 [![PyPI - Downloads](https://img.shields.io/pypi/dm/deeplabcut.svg?color=purple&label=PyPi)](https://pypistats.org/packages/deeplabcut)
 [![GitHub stars](https://img.shields.io/github/stars/AlexEMG/DeepLabCut.svg?style=social&label=Star)](https://github.com/AlexEMG/DeepLabCut)
-[![GitHub forks](https://img.shields.io/github/forks/AlexEMG/DeepLabCut.svg?style=social&label=Fork)](https://github.com/AlexEMG/DeepLabCut)
 
 [![Generic badge](https://img.shields.io/badge/Contributions-Welcome-brightgreen.svg)](CONTRIBUTING.md)
 [![License: LGPL v3](https://img.shields.io/badge/License-LGPL%20v3-blue.svg)](https://www.gnu.org/licenses/lgpl-3.0)
 [![Image.sc forum](https://img.shields.io/badge/dynamic/json.svg?label=forum&amp;url=https%3A%2F%2Fforum.image.sc%2Ftag%2Fdeeplabcut.json&amp;query=%24.topic_list.tags.0.topic_count&amp;colorB=brightgreen&amp;&amp;suffix=%20topics&amp;logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAABPklEQVR42m3SyyqFURTA8Y2BER0TDyExZ+aSPIKUlPIITFzKeQWXwhBlQrmFgUzMMFLKZeguBu5y+//17dP3nc5vuPdee6299gohUYYaDGOyyACq4JmQVoFujOMR77hNfOAGM+hBOQqB9TjHD36xhAa04RCuuXeKOvwHVWIKL9jCK2bRiV284QgL8MwEjAneeo9VNOEaBhzALGtoRy02cIcWhE34jj5YxgW+E5Z4iTPkMYpPLCNY3hdOYEfNbKYdmNngZ1jyEzw7h7AIb3fRTQ95OAZ6yQpGYHMMtOTgouktYwxuXsHgWLLl+4x++Kx1FJrjLTagA77bTPvYgw1rRqY56e+w7GNYsqX6JfPwi7aR+Y5SA+BXtKIRfkfJAYgj14tpOF6+I46c4/cAM3UhM3JxyKsxiOIhH0IO6SH/A1Kb1WBeUjbkAAAAAElFTkSuQmCC)](https://forum.image.sc/tag/deeplabcut)
 [![Gitter](https://badges.gitter.im/DeepLabCut/community.svg)](https://gitter.im/DeepLabCut/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 [![Twitter Follow](https://img.shields.io/twitter/follow/DeepLabCut.svg?label=DeepLabCut&style=social)](https://twitter.com/DeepLabCut)
+[![GitHub forks](https://img.shields.io/github/forks/AlexEMG/DeepLabCut.svg?style=social&label=Fork)](https://github.com/AlexEMG/DeepLabCut)
 
 <p align="center">
-<img src="https://images.squarespace-cdn.com/content/v1/57f6d51c9f74566f55ecf271/1572292713808-OGX91SRKS29HO1S1NM3M/ke17ZwdGBToddI8pDm48kILpIeU4tSPoyuPhoTZrjZYUqsxRUqqbr1mOJYKfIPR7LoDQ9mXPOjoJoqy81S2I8N_N4V1vUb5AoIIIbLZhVYwL8IeDg6_3B-BRuF4nNrNcQkVuAT7tdErd0wQFEGFSnNzerEU_4M7wwrSbGAQBPoaEXIMwgzaMZDtzFVLMb0IRXJtgAAHcBYpsBwzoISzHpg/DLC_logo_blk_wide-01.png?format=1000w" width="95%">
+<img src="https://images.squarespace-cdn.com/content/v1/57f6d51c9f74566f55ecf271/1609244670293-I4G1WXUK4R4ELSG20YWN/ke17ZwdGBToddI8pDm48kMSuf4e2vyXWwmoX99kS6G0UqsxRUqqbr1mOJYKfIPR7LoDQ9mXPOjoJoqy81S2I8N_N4V1vUb5AoIIIbLZhVYxCRW4BPu10St3TBAUQYVKcB2zTWnNYNsbaeRctoqYAz_Z2hBxiefVgk3iqj7SAtv40MC358Orr9N-QLax1vImS/dlc_logo_whiteBkgnd.png?format=2500w" width="95%">
 </p>
 <p align="center">
     <a href="https://www.mousemotorlab.org/deeplabcut/">www.deeplabcut.org</a>
@@ -21,7 +22,6 @@
 <p align="center">
 <img src="https://images.squarespace-cdn.com/content/v1/5d90cb67886fb8184560c3ef/1569773279570-XQAKFA299I0YGMZI129U/ke17ZwdGBToddI8pDm48kAsfLZj9Z3cwME2xx-GVPktZw-zPPgdn4jUwVcJE1ZvWEtT5uBSRWt4vQZAgTJucoTqqXjS3CfNDSuuf31e0tVFduml12xzze87D3uxh5wWTU2EfgWtpp0j_eVfs7Ce7Qib8BodarTVrzIWCp72ioWw/MATHIS_2018_odortrail.gif?format=300w" height="150">
     
-<img src="https://images.squarespace-cdn.com/content/v1/57f6d51c9f74566f55ecf271/1603792922722-ZBHDW3V3M966VV390REK/ke17ZwdGBToddI8pDm48kBK2gOJgRrE1qfX6baRGzEdZw-zPPgdn4jUwVcJE1ZvWhcwhEtWJXoshNdA9f1qD7TAWtXaZ0LE0wmVD36pjqFiJbhrK69_i1CGcNRidYBzSIkvK-oQl2ejuj9B-hkcAjQ/smallfish.gif?format=300w" height="150">
 
 <img src="https://images.squarespace-cdn.com/content/v1/57f6d51c9f74566f55ecf271/1534797521117-EIEUED03C68241QZ4KCK/ke17ZwdGBToddI8pDm48kAx9qLOWpcHWRGxWsJQSczRZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpwdr4GYy30vFzf31Oe7KAPZKkqgaiEgc5jBNdhZmDPlzxdkDSclo6ofuXZm6YCEhUo/MATHIS_2018_fly.gif?format=300w" height="150">
 
@@ -41,7 +41,7 @@ DeepLabCut is a toolbox for markerless pose estimation of animals performing var
 # [Installation: how to install DeepLabCut](docs/installation.md)
 
 Very quick start: `pip install deeplabcut`
-* you also need tensorflow, wxPython, and ffmpeg; see [here](https://github.com/DeepLabCut/DeepLabCut/blob/master/conda-environments/README.md#creating-your-own-customized-conda-env-recommended-route-for-linux-ubuntu-centos-mint-etc)
+* you also need tensorflow and wxPython see [here](https://github.com/DeepLabCut/DeepLabCut/blob/master/conda-environments/README.md#creating-your-own-customized-conda-env-recommended-route-for-linux-ubuntu-centos-mint-etc)
 
 # [Documentation: The DeepLabCut Process](docs/UseOverviewGuide.md)
 
@@ -50,7 +50,7 @@ An overview of the pipeline and workflow for project management. For a step-by-s
 For a deeper understanding and more resources for you to get started with Python and DeepLabCut, please check out our free online course! http://DLCcourse.deeplabcut.org
 
 <p align="center">
-<img src="https://images.squarespace-cdn.com/content/v1/57f6d51c9f74566f55ecf271/1572293604382-W6BWA63LZ9J8R7N0QEA5/ke17ZwdGBToddI8pDm48kIw6YkRUEyoge4858uAJfaMUqsxRUqqbr1mOJYKfIPR7LoDQ9mXPOjoJoqy81S2I8N_N4V1vUb5AoIIIbLZhVYwL8IeDg6_3B-BRuF4nNrNcQkVuAT7tdErd0wQFEGFSnH9wUPiI8bGoX-EQadkbLIJwhzjIpw393-uEwSKO7VZIL9gN_Sb5I_dLwvWryjeCJg/dlc_overview-01.png?format=1000w" width="95%">
+<img src="https://images.squarespace-cdn.com/content/v1/57f6d51c9f74566f55ecf271/1609244903687-US1SN063QIFJS4BP4IJD/ke17ZwdGBToddI8pDm48kFG9xAYub2PPnmh56PTVg7gUqsxRUqqbr1mOJYKfIPR7LoDQ9mXPOjoJoqy81S2I8N_N4V1vUb5AoIIIbLZhVYxCRW4BPu10St3TBAUQYVKcAju5e7u9RZJEVbVQPZRu9xb_m-kUO2M3I1IeDqD4l8YcGqu2nZPx1UhKV8wc1ELN/dlc_overview_whitebkgrnd.png?format=2500w" width="95%">
 </p>
 
 # [DEMO the code](/examples)
@@ -96,7 +96,12 @@ This is an actively developed package and we welcome community development and i
 
 ## References:
 
-If you use this code or data please [cite Mathis et al, 2018](https://www.nature.com/articles/s41593-018-0209-y) and, if you use, the Python package (DeepLabCut2.x) please also cite [Nath, Mathis et al, 2019](https://doi.org/10.1038/s41596-019-0176-0). If you utilize the MobileNets please cite [Mathis et al. 2019](https://arxiv.org/abs/1909.11229).
+If you use this code or data we kindly as that you please [cite Mathis et al, 2018](https://www.nature.com/articles/s41593-018-0209-y) and, if you use the Python package (DeepLabCut2.x) please also cite [Nath, Mathis et al, 2019](https://doi.org/10.1038/s41596-019-0176-0). If you utilize the MobileNetV2s or EfficientNets please cite [Mathis, Biasi et al. 2020](https://arxiv.org/abs/1909.11229).
+
+DOIs (#ProTip, for helping you find citations for software, check out [CiteAs.org](http://citeas.org/)!):
+
+- Mathis et al 2018: [10.1038/s41593-018-0209-y](https://doi.org/10.1038/s41593-018-0209-y)
+- Nath, Mathis et al 2019: [10.1038/s41596-019-0176-0](https://doi.org/10.1038/s41596-019-0176-0)
 
 Please check out the following references for more details:
 
@@ -178,7 +183,7 @@ Our open-access pre-prints:
 
 ## License:
 
-This project is licensed under the GNU Lesser General Public License v3.0. Note that the software is provided "as is", without warranty of any kind, express or implied. If you use the code or data, please [cite us!](https://www.nature.com/articles/s41593-018-0209-y).
+This project is licensed under the GNU Lesser General Public License v3.0. Note that the software is provided "as is", without warranty of any kind, express or implied. If you use the code or data, please cite us!. Note, artwork and images are copyrighted; please do not take or use these images without written permission.
 
 ## Versions:
 
@@ -191,6 +196,7 @@ VERSION 1.0: The initial, Nature Neuroscience version of [DeepLabCut](https://ww
 
 ## News (and in the news):
 
+- Dec 2020: We released a real-time package that allows for online pose estimation and real-time feedback. See [DLClive.deeplabcut.org](http://DLClive.deeplabcut.org).
 - 5/22 2020: We released 2.2beta5. This beta release has some of the features of DeepLabCut 2.2, whose major goal is to integrate multi-animal pose estimation to DeepLabCut.
 - Mar 2020: Inspired by suggestions we heard at this weeks CZI's Essential Open Source Software meeting in Berkeley, CA we updated our [docs](docs/UseOverviewGuide.md). Let us know what you think!
 - Feb 2020: Our [review on animal pose estimation is published!](https://www.sciencedirect.com/science/article/pii/S0959438819301151)
